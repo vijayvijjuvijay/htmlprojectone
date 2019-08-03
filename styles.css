@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(206, 218, 218);
+    margin:0;
+}
+.nav{
+    background-color:midnightblue ;
+    text-align: center;
+    padding:16px 0px;
+}
+.menus-items{
+    display:inline;
+    padding:16px 24px;
+  
+}
+.menus-item_link{
+    color:white;
+    text-decoration: underline;
+}
+.trips{
+    color:black;
+    text-decoration: none;
+}
+.sec_two_header{
+    text-align: center;
+}
+/* .sec_three{
+     text-align: center; 
+    display: inline;
+} */
+.iconbox {
+    display: inline;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.captionBox {
+    text-align: center;
+    width: 300px;
+    display: inline-block;
+    padding:16px 24px;
+    
+}
+.captionBox img {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}
+.item{
+    width:300px;
+    height:300px;
+    padding:8px 16px;
+}
+.content{
+    margin-left:30px;
+    margin-right:30px;
+}
+h4{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-style: italic;
+}
+.container{
+    padding: 24px;
+    border-color: lightblue;
+    border-width: 1px;
+    border-style: solid;
+    width:300px;
+    background-color:white;
+    margin-left:auto;
+    margin-right:auto;
+}
+.input_box{
+    border: 0px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    width:100%;
+}
+.btn_bottom{
+    text-align:center;
+  }
+.btn_register{
+    color:white;
+    background-color:midnightblue;
+    font-size: 18px;
+    border:none;
+    padding: 12px 24px;
+}
+.footer{
+    background-color: black;
+    height:100px;
+    width:100%;
+    margin-bottom: 0px;
+}
+.menus{
+    text-align: center;
+    padding:16px 0px;
+}
+.menus-item_link_footer{
+    color:grey;
+    text-decoration: none;
+}
